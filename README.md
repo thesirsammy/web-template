@@ -1,2 +1,4 @@
-# web-template
-SirSammy's Web Development Template. Will update and expand as I grow my skills. 
+# SirSammy's Web Stack Template
+My template for web projects. Will get bigger and bigger as I continue to learn.
+
+Currently utilizes **Webpack**, **NPM**, **Prettier**, **HTML**, **CSS**, and **JS**.
